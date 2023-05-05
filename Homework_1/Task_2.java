@@ -15,5 +15,5 @@ public class Task_2 {
             if(count<2)
                System.out.println(i);
           }
-}
+    }
 }
